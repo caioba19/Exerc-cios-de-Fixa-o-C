@@ -1,6 +1,6 @@
-# Estrutura de Dados — Lista de Exercícios (Aulas 2 e 3)
+# Estrutura de Dados — Lista de Exercícios 
 
-Exercícios básicos e de fixação em linguagem C, da disciplina de Estrutura de Dados do curso de ADS — Centro Universitário Jorge Amado (UNIJORGE). Professor: Sidney Doria.
+Exercícios básicos e de fixação em linguagem C, da disciplina de Estrutura de Dados do curso de ADS — Centro Universitário Jorge Amado (UNIJORGE). Professor: Nirton.
 
 ---
 
